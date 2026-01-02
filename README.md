@@ -72,4 +72,4 @@ Clean separation of frontend, backend, and business logic
 
 **Author**
 Ganesan Ramachandran
-mail:gane27@gmail.com
+mail: gane27@gmail.com
