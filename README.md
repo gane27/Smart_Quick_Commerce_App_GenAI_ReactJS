@@ -5,39 +5,23 @@ It models real-world interactions between users, virtual warehouses, and deliver
 
 The system dynamically selects the nearest warehouse and delivery hotspot using proximity-based calculations and enhances product discovery through AI-powered recommendations.
 
-Key Features
+**Key Features**
 User Account Management
-
 Secure user registration and login
-
 JWT-based authentication
-
 Persistent user sessions across the shopping flow
-
 Protected routes for authenticated access
-
 Product Browsing & Cart
-
 Product listing fetched dynamically from the database
-
 Add, remove, and update cart items
-
 Quantity management and cart review before checkout
-
 Order Placement & Tracking
-
 Structured checkout flow
-
-Orders stored with user and cart details
-
+Orders stored with the user and cart details
 UI to track order status and lifecycle
-
 Smart Fulfilment Simulation
-
-Virtual warehouses and delivery hotspots represented using x–y coordinates
-
-Intelligent selection of:
-
+Virtual warehouses and delivery hotspots are represented using x–y coordinates
+**Intelligent selection of:**
 Nearest warehouse to the user
 
 Nearest delivery hotspot to the selected warehouse
