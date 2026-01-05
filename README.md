@@ -62,6 +62,7 @@ The system dynamically selects the nearest warehouse and delivery hotspot using 
 •	Authentication
 •	JSON Web Tokens (JWT)
 
+
 **AI & Developer Tools:**
 •	Prompt Engineering with LLMs
 •	GitHub Copilot
