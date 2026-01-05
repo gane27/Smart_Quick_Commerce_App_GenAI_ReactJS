@@ -21,7 +21,8 @@ The system dynamically selects the nearest warehouse and delivery hotspot using 
 2.	Orders stored with user and cart details
 3.	UI to track order status and order lifecycle
 
-Smart Fulfilment Simulation
+**Smart Fulfilment Simulation**
+
 1.	Virtual warehouses and delivery hotspots represented using x–y coordinates
 2.	Intelligent selection of:
 3.	Nearest warehouse to the user
