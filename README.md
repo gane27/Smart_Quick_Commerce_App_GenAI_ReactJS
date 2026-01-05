@@ -1,4 +1,4 @@
-# quick_commerce_stub_code_Capstone_Project
+# quick_commerce_React JS with
 
 This project is a Quick Commerce web application that simulates a responsive and intelligent order fulfilment system.
 It models real-world interactions between users, virtual warehouses, and delivery hotspots, focusing on efficient order processing, delivery routing, and personalized user experience.
