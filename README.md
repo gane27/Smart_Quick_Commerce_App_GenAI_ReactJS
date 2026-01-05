@@ -29,7 +29,7 @@ The system dynamically selects the nearest warehouse and delivery hotspot using 
 4.	Nearest delivery hotspot to the selected warehouse
 5.	Optimized delivery route using distance calculations (Euclidean distance)
 
-**Order Processing Logic**
+**Order Processing Logic:**
 
 **Simulated real-world delays for:**
 
